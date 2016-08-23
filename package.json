@@ -1,6 +1,6 @@
 {
   "name": "url-equal",
-  "version": "0.1.2",
+  "version": "0.1.2-1",
   "description": "Check if URLs are functionally equal",
   "main": "index.js",
   "scripts": {
