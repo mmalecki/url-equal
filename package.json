@@ -1,0 +1,14 @@
+{
+  "name": "url-equal",
+  "version": "0.0.0",
+  "description": "Check if URLs are functionally equal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "license": "ISC",
+  "dependencies": {
+    "deep-equal": "~1.0.1"
+  }
+}
